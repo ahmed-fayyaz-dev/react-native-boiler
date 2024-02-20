@@ -18,13 +18,17 @@
 - **Navigation:** Included support for react-navigation for easy navigation setup.
 
 The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to use this template and start coding!
-For Creating a tempelate press -> "use this template"->"Create new repository" or press this [link]
 
 
 ##### Happy coding! If you find this template helpful, don't forget to star✨ the repository.
 
-# Getting Started
 
+# Use this Template
+For using this template press "use this template" Button or press this [link]
+
+
+
+# Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
