@@ -1,6 +1,31 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React Native Boilerplate Template
 
+##### This is a boilerplate template for kickstarting React Native projects. It provides a solid foundation for building robust and scalable mobile applications. :rocket: 
+# 
+#
+
+## ✨Features
+# 
+- **TypeScript:** TypeScript support for type safety and improved development experience.
+- **Internationalization (i18n):** Integration with i18next and react-i18next for easy translations and localization.
+- **Generic Theming:** Easily customize fonts, colors, and spacing to maintain consistent styling across your app.
+- **Server State Management:** Utilize react-query for efficient server state management and data fetching.
+- **Client State Management:** Integrated redux toolkit for client-side state management with typed useDispatch and useSelector hooks for easy access throughout the app.
+- **Linting and Prettier:** Enforce common coding style and formatting rules for seamless collaborative efforts.
+- **Husky Precommit Hooks:** Enforce code style and run linting and formatting checks before committing changes.
+- **Shared Components and Absolute Imports:** Organize shared components and utilize absolute imports for cleaner code structure.
+- **React Native SVG Support:** Support for SVG files in React Native applications.
+- **Fast Local Storage:** Integration with react-native-mmkv for high-performance local storage, significantly faster than AsyncStorage.
+- **Navigation:** Included support for react-navigation for easy navigation setup.
+
+The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to fork the repository and start coding!
+
+##### Happy coding! If you find this template helpful, don't forget to star✨ the repository.
+#
+#
+#
 # Getting Started
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
@@ -51,12 +76,9 @@ Now that you have successfully run the app, let's modify it.
 2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-If you are using nvm, you might want to create a file called .huskyrc in your home directory and add the following lines of code to it:
+   
+   
+###If you are using nvm, you might want to create a file called .huskyrc in your home directory and add the following lines of code to it:
 
 ```bash
 ~/.huskyrc
@@ -64,3 +86,8 @@ If you are using nvm, you might want to create a file called .huskyrc in your ho
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 ```
+
+
+## Congratulations! :tada:
+
+You've successfully run and modified your React Native App. :partying_face:
