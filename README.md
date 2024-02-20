@@ -18,7 +18,7 @@
 - **Navigation:** Included support for react-navigation for easy navigation setup.
 
 The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to use this template and start coding!
-For Creating a tempelate press -> "use this template"->"Create new repository" or press this link [Use this repository Template]
+For Creating a tempelate press -> "use this template"->"Create new repository" or press this link [Tempelate_Link]
 
 
 ##### Happy coding! If you find this template helpful, don't forget to star✨ the repository.
@@ -91,6 +91,7 @@ export NVM_DIR="$HOME/.nvm"
 
 You've successfully run and modified your React Native App. :partying_face:
 
+[Tempelate_Link]:<https://github.com/new?template_name=react-native-boiler&template_owner=ahmed-fayyaz-dev>
 
 
    [Use this repository Template]: <[https://github.com/new?template_name=react-native-boiler&template_owner=ahmed-fayyaz-dev](https://github.com/new?template_name=react-native-boiler&template_owner=ahmed-fayyaz-dev)https://github.com/new?template_name=react-native-boiler&template_owner=ahmed-fayyaz-dev>
