@@ -17,7 +17,9 @@
 - **Fast Local Storage:** Integration with react-native-mmkv for high-performance local storage, significantly faster than AsyncStorage.
 - **Navigation:** Included support for react-navigation for easy navigation setup.
 
-The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to fork the repository and start coding!
+The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to use this template and start coding!
+For Creating a tempelate press -> "use this template"->"Create new repository"
+
 
 ##### Happy coding! If you find this template helpful, don't forget to star✨ the repository.
 
