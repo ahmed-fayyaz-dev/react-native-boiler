@@ -1,11 +1,10 @@
 # React Native Boilerplate Template
 
-##### This is a boilerplate template for kickstarting React Native projects. It provides a solid foundation for building robust and scalable mobile applications. :rocket: 
-# 
-#
+##### This is a boilerplate template for kickstarting React Native projects. It provides a solid foundation for building robust and scalable mobile applications. :rocket:
+
 
 ## ✨Features
-# 
+
 - **TypeScript:** TypeScript support for type safety and improved development experience.
 - **Internationalization (i18n):** Integration with i18next and react-i18next for easy translations and localization.
 - **Generic Theming:** Easily customize fonts, colors, and spacing to maintain consistent styling across your app.
@@ -21,9 +20,7 @@
 The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to fork the repository and start coding!
 
 ##### Happy coding! If you find this template helpful, don't forget to star✨ the repository.
-#
-#
-#
+
 # Getting Started
 
 
