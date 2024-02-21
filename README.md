@@ -108,6 +108,8 @@ You've successfully run and modified your React Native App. :partying_face:
 ## Support
 For any queries contact me on discord [discord link] 
 
+If this repo get's 15+ stars I will post a meduim article on usage of exisitng libraries and how it can make your developer experience better :)
+
 [discord link]:<https://discord.gg/su2g2aU79u>
 [link]:<https://github.com/new?template_name=react-native-boiler&template_owner=ahmed-fayyaz-dev>
 
