@@ -6,15 +6,25 @@
 ## ✨Features
 
 - **TypeScript:** TypeScript support for type safety and improved development experience.
+  
 - **Internationalization (i18n):** Integration with i18next and react-i18next for easy translations and localization.
-- **Generic Theming:** Easily customize fonts, colors, and spacing to maintain consistent styling across your app.
-- **Server State Management:** Utilize react-query for efficient server state management and data fetching.
-- **Client State Management:** Integrated redux toolkit for client-side state management with typed useDispatch and useSelector hooks for easy access throughout the app.
+
+- **Generic Theming:** Easily customize **fonts, colors, and spacing** to maintain consistent styling across your app.
+
+- **Server State Management:** Utilize **react-query** for efficient server state management and data fetching.
+
+- **Client State Management:** Integrated **redux toolkit** for client-side state management with typed useDispatch and useSelector hooks for easy access throughout the app.
+
 - **Linting and Prettier:** Enforce common coding style and formatting rules for seamless collaborative efforts.
+
 - **Husky Precommit Hooks:** Enforce code style and run linting and formatting checks before committing changes.
+
 - **Shared Components and Absolute Imports:** Organize shared components and utilize absolute imports for cleaner code structure.
+
 - **React Native SVG Support:** Support for SVG files in React Native applications.
-- **Fast Local Storage:** Integration with react-native-mmkv for high-performance local storage, significantly faster than AsyncStorage.
+
+- **Fast Local Storage:** Integration with **react-native-mmkv** for high-performance local storage, significantly faster than AsyncStorage.
+
 - **Navigation:** Included support for react-navigation for easy navigation setup.
 
 The boilerplate provides a solid foundation that can be easily modified according to your specific requirements. Feel free to use this template and start coding!
