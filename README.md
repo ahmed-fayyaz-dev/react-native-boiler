@@ -7,7 +7,7 @@
 
 - **TypeScript:** TypeScript support for type safety and improved development experience.
   
-- **Internationalization (i18n):** Integration with i18next and react-i18next for easy translations and localization.
+- **Internationalization (i18n):** Integration with `i18next and react-i18next` for easy translations and localization.
 
 - **Generic Theming:** Easily customize `fonts, colors, and spacing` to maintain consistent styling across your app.
 
